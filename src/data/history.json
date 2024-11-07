@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "LED Smart Inc",
+    "startDate": "July, 2022",
+    "endDate": "July, 2023",
+    "experiences": ["Developed iOS apps for horticultural lighting control", "Integrated Bluetooth Low Energy (BLE) for real-time control"],
+    "imageSrc": "history/ledsmart.png"
+  },
+  {
+    "role": "Test Designer",
+    "organisation": "UBC Sauder School of Business",
+    "startDate": "May, 2022",
+    "endDate": "Nov, 2022",
+    "experiences": ["Designed and tested different elevator queuing methods", "Reduced queuing time and length for efficiency"],
+    "imageSrc": "history/sauder.png"
+  }
+  
+]

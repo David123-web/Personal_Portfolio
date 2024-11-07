@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Immy Chatbot",
+    "imageSrc": "projects/immy.png",
+    "description": "This is an interactive chatbot for language learning usinng OpenAI API",
+    "skills": ["OpenAI API", "Amazon Polly", "HTTP", "Python", "SQL", "Jenkin's", "Docker"],
+    "demo": "https://youtu.be/7y5JiR5ILC0?list=PLjFm8PBGO0F_bX4LzQFBsgxHpjG0r6vYZ",
+    "source": "https://github.com/David123-web/Immy-Chat"
+  },
+  {
+    "title": "Android Casino App",
+    "imageSrc": "projects/casino.png",
+    "description": "This is a mutiplayer online casino game, featuring Roulette, Black Jack, Baccarat",
+    "skills": ["Java", "Express", "Node.js", "JavaScript", "MongoDB", "Jest", "Expresso", "Azure"],
+    "demo": "https://drive.google.com/file/d/1qDYaA1kh2ykCoQaLeEYV-6kFH3zcfcue/view?usp=sharing",
+    "source": "https://github.com/GraniVictoria/AndroidGameRoomApp"
+  },
+  {
+    "title": "Pixel CNN generative model",
+    "imageSrc": "projects/pixel.png",
+    "description": "This is a project made to modify an existing ML model to do image generation and classification with 77.8% accuracy on the test set",
+    "skills": ["TensorFlow", "Scikit-learn"],
+    "demo": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:bd739720-6f3d-4fea-b23b-37d93caece7e",
+    "source": "https://github.com/David123-web/PCNN_CPEN_FINAL_PROJECT"
+  }
+]
