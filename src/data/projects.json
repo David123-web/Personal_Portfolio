@@ -19,8 +19,16 @@
     "title": "Pixel CNN generative model",
     "imageSrc": "projects/pixel.png",
     "description": "This is a project made to modify an existing ML model to do image generation and classification with 77.8% accuracy on the test set",
-    "skills": ["TensorFlow", "Scikit-learn"],
+    "skills": ["Pytorch", "Numpy", "Pandas", "Wandb", "Pillow"],
     "demo": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:bd739720-6f3d-4fea-b23b-37d93caece7e",
     "source": "https://github.com/David123-web/PCNN_CPEN_FINAL_PROJECT"
+  },
+  {
+    "title": "Heart Disease Diagnosis with Different ML Models",
+    "imageSrc": "projects/heart.png",
+    "description": "This project used five different models to predict heart failure outcomes based on patient data, with the best model reaching 88% accuracy on test data.",
+    "skills": ["NumPy", "Scikit-learn", "Pandas", "Matplotlib"],
+    "demo": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ce7097d8-f2d6-4c06-917a-2ee80fa2d1da",
+    "source": "https://github.com/David123-web/Heart-Disease-Diagnosis-with-Different-ML-Models"
   }
 ]

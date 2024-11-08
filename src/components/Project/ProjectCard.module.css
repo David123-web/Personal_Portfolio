@@ -1,14 +1,13 @@
 @import "../../vars.css";
 
 .container{
+    overflow: visible;
     display: flex;
     flex-direction: column;
     border-radius: 10px;
     background: linear-gradient(180deg, var(--color-pjlight) 0%, var(--color-pjdark) 100%);
     box-shadow: 0 16px 14px 0 var(--color-bg);
     padding: 18px 24px;
-    max-width:345px;
-
 }
 
 .image{
@@ -49,6 +48,8 @@
     margin-top: 26px;
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 6px;
 }
 
 .link{
